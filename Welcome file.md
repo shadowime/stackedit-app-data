@@ -147,8 +147,6 @@ B --> D{菱形}
 C --> D
 ```
 
-![图片](https://raw.githubusercontent.com/shadowime/Image/iiro/image/Image_1790864709010_519.png)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzY3NDcyNl19
+eyJoaXN0b3J5IjpbNDAzMTg5MzEwXX0=
 -->
