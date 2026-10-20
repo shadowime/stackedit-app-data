@@ -40,20 +40,11 @@ Markdown
 ## 寻找魔塔（FINDING THE TOWER）
 
 [ S ] ---> (1) [ 宝剑 ]
-
-/
-
 (2) [ 权杖 ]
-
-/
-
 (3) [ 圣杯 ]
-
-/
-
 (4) [ 星币 ]
 
-  
+![输入图片说明](/imgs/2026-10-21/caxg7FIkMyt5PGk1.png)  
 
 织者们从 **“S”** 点出发。只有当移动到对应空间时，卡牌 1、2、3 和 4 才会翻开。所有其他卡牌可保持朝下，代表茂密而多山的高原森林。每张卡牌代表 1 天的旅程尺度。如果织者消耗其回合进行搜寻或侦察，可以从任何相邻的卡牌位置观测到魔塔。
 
@@ -194,5 +185,6 @@ Markdown
 | **罗宾（ROBIN）** | 灵魂 \| **绑定物品**：毛绒玩具熊（Stuffed Bear） | 游荡于 **(1, 2, 4)** | 爱玩耍的小孩，非常深爱他的父亲阿尔伯特。 |
 | **阿尔伯特（ALBERT）** | **活人居民** | 出现于 **(1, 2, 4)** | 无法离开儿子罗宾，也不愿失去魔塔，常在魔塔周边狩猎。 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTU0MDgzNiwtMjEzOTI4MjE1NF19
+eyJoaXN0b3J5IjpbLTE1NzQ2MTg3ODAsLTIxMzkyODIxNTRdfQ
+==
 -->
